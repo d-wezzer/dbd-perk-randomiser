@@ -1,2 +1,8 @@
+/.vscode
 /dist
 /http-server.json
+/node-modules
+/package-lock.json
+/package.json
+/tsconfig.json
+/.gitignore
